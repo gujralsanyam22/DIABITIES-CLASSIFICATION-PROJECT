@@ -1,4 +1,4 @@
-# DIABITIES-CLASSIFICATION-PROJECT
+# DIABITIES-CLASSIFICATION-PROJECT [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/gujralsanyam22/diabetes-prediction-app/diabities.py)
 
 ## Table of Content
   * [Demo](#demo)
